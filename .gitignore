@@ -1,0 +1,19 @@
+# Common files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Python/IDE (if you later add scripts)
+__pycache__/
+*.py[cod]
+venv/
+.env
+
+# Node (if you later add)
+node_modules/
+
+# macOS
+.AppleDouble
+.LSOverride
